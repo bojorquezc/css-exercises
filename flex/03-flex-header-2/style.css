@@ -12,6 +12,7 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  padding: 8px;
   display: flex;
   justify-content: space-between;
 }
@@ -27,6 +28,8 @@ body {
 
 .right-header {
   display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
 
